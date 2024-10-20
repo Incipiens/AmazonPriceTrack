@@ -3,6 +3,10 @@
 
 This Python script automatically tracks the price of a product on Amazon, logs the price history in a CSV file, and sends an email alert when the price changes.
 
+Read more about it [here:]([url](https://www.xda-developers.com/built-own-price-tracker-amazon-python/)) 
+
+
+
 ## Features
 - Scrapes the price of an Amazon product at regular intervals.
 - Logs the price history with timestamps in a CSV file.
